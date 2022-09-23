@@ -1,0 +1,7 @@
+✔ Criar uma pasta nova (separada dos projetos anteriores para não perdermos onde essa prática será feita). @done(22-09-02 19:49)
+✔ Criar um arquivo somar.js que contenha uma função chamada somar, a qual deve ser exportada ao final do arquivo. Esta função deve receber 2 parâmetros e retornar a soma dos mesmos. @done(22-09-02 20:04)
+✔ Criar um arquivo subtrair.js que contenha uma função chamada subtrair, a qual deve ser exportada ao final do arquivo. Esta função deve receber 2 parâmetros e retornar a diferença entre eles. @done(22-09-02 20:04)
+✔ Criar um arquivo multiplicar.js que contenha uma função chamada multiplicar, a qual deve ser exportada ao final do arquivo. Esta função deve receber 2 parâmetros e retornar a multiplicação dos mesmos. @done(22-09-02 20:04)
+✔ Criar um arquivo dividir.js que contenha uma função chamada dividir, a qual deve ser exportada ao final do arquivo. Esta função deve receber 2 parâmetros e retornar a divisão dos mesmos. Importante: @done(22-09-02 20:04)
+    ✔ contemplar o cenário em que, se o segundo parâmetro for zero, a função retornará "Não se pode dividir por zero". @done(22-09-02 20:06)
+Para verificar que até aqui foi tudo bem, recomendamos verificar cada uma das funções e testar o seu correto funcionamento.
